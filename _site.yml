@@ -1,11 +1,11 @@
-name: "MyLabJournal"
+name: "EES3310"
 navbar:
-  title: "MyLabJournal"
+  title: "EES3310"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
+    - text: "Schedule"
       href: Journal.html
-    - text: "Links"
+    - text: "Lab"
       href: Links.html
 output_dir: "docs"
